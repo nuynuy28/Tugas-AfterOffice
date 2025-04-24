@@ -22,5 +22,5 @@ let isWeekend = true;
 let isHoliday = false;
 let canRelax = (isWeekend || isHoliday) && !false;
 
-console.log(canRelax);
+console.log(canRelax); 
 

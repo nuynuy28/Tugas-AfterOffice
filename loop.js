@@ -63,3 +63,10 @@ while (number <= 4){
     console.log(`Urutan nomor: ${number}`);
 number++
 }
+
+let number2 =2;
+    while(number2 <= 10){
+        console.log(`Nomor: ${number2}`);
+
+        number2++
+    }

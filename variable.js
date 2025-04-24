@@ -24,3 +24,6 @@ let a = 100;
 let b = 1000;
 let c = 10000;
 console.log(a, b, c);
+
+var nama = "Nurul";
+console.log(nama);
